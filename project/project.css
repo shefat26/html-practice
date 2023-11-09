@@ -1,4 +1,30 @@
+.home {
+  border: 1px solid black;
+  text-decoration: none;
+  padding: 10px 20px;
+  margin: 5px;
+  display: inline-block;
+  border-radius: 5px;
+}
 
+.home:hover {
+  background-color: aquamarine;
+}
 
+table {
+  border: 1px solid black;
+  margin: 10px 20px;
+  padding: 20px 30px;
+  border-collapse: collapse;
+}
 
+th {
+  border: 1px solid black;
+  padding: 10px 50px;
+  background-color: antiquewhite;
+}
 
+td {
+  border: 1px solid black;
+  padding: 10px 50px;
+}
