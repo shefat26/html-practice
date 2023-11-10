@@ -1,0 +1,66 @@
+.home {
+  border: 1px solid black;
+  margin: 1px 10px;
+  padding: 10px 15px;
+  outline: none;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.home:hover {
+  background-color: aqua;
+}
+
+.anc {
+  border: 1px solid black;
+  /* padding: 10px 20px; */
+  display: inline-block;
+}
+
+.opt {
+  border: 1px solid black;
+  display: inline;
+}
+
+.list {
+  border: 1px solid black;
+  margin: 10px 10px;
+  padding: 10px 20px;
+  border-collapse: collapse;
+}
+
+li {
+  border-bottom: 1px solid black;
+}
+
+table {
+  border: 1px solid blue;
+  margin: 10px 20px;
+  padding: 10px 30px;
+  border-collapse: collapse;
+}
+
+th {
+  border: 1px solid black;
+  margin: 10px 20px;
+  padding: 10px 20px;
+  background-color: antiquewhite;
+}
+
+.a {
+  border: 1px solid black;
+  margin: 10px 20px;
+  padding: 10px 20px;
+}
+
+.b {
+  border: 1px solid black;
+  margin: 10px 20px;
+  padding: 10px 20px;
+}
+
+.img {
+  border: 1px solid black;
+  margin: 10px 20px;
+  padding: 10px 20px;
+}
